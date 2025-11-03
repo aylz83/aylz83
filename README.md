@@ -1,16 +1,12 @@
-## Hi there 👋
+I'm a final year computational PhD candidate at the University of Leeds within the Aspden Group, looking at translation regulation of mRNA and lncRNA in neuronal differentiation using high-throughput sequencing data.
 
-<!--
-**aylz83/aylz83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I primarily work on
+  - Nanopore long-read data
+  - Ribo-Seq and RNA-Seq data
+  - Proteomics data
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I’m currently working on
+  - inspectorORF - An R package for the plotting of exons, introns, transcripts and coding sequences from multiomics data
+  - decapod-rs - A rust crate consisting of bindings around the pod5-file-format library in a Rust idomatic way
+  - pufferfish-rs A rust crate for the asynchronous reading of BGzip blocked data in memory or files
+  - bubbles - A rust crate for asynchronous reading of BAM files with built in support for filtering
