@@ -9,6 +9,7 @@ I'm a final year computational PhD candidate at the University of Leeds within t
   - [inspectorORF](https://github.com/aylz83/inspectorORF) - An R package for the plotting of exons, introns, transcripts and coding sequences from multiomics data
     
 ## Personal projects
+  - [fixie](https://github.com/aylz83/cargo-fixie) - A cargo subcommand (fixie) to easily evaluate build errors in order.
   - [decapod-rs](https://github.com/aylz83/decapod-rs) - A rust crate consisting of bindings around the pod5-file-format library in a Rust idomatic way.
   - [sandman-rs](https://github.com/aylz83/sandman-rs) - A Rust crate for asynchronous reading of bed, bgzipped bed, and tabix indexed beds with automatic detection of compression and indexed beds.
   - [faisync-rs](https://github.com/aylz83/faisync-rs) - A rust create for asynchronous reading of FASTA regions with index (.fai) files.
