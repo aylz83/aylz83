@@ -1,4 +1,4 @@
-I'm a final year computational PhD candidate at the University of Leeds within the Aspden Group, looking at translation regulation of mRNA and lncRNA in neuronal differentiation using high-throughput sequencing data.
+I'm a final year computational PhD candidate at the University of Leeds within the Aspden Group, focusing on computational discovery of translated long non-coding RNAs and modelling translational control during early neurodevelopment with machine learning techniques.
 
 ## I primarily work on
   - Nanopore long-read data
