@@ -1,4 +1,4 @@
-I'm a final year computational PhD candidate at the University of Leeds within the Aspden Group, focusing on computational discovery of translated long non-coding RNAs and modelling translational control during early neurodevelopment with machine learning techniques.
+Postdoctoral researcher in the RiboCode project, focusing on computational characterisation of specialised ribosomes.
 
 ## I primarily work on
   - Nanopore long-read data
